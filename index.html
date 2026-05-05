@@ -104,6 +104,24 @@ h1 {
   font-size: 12px;
   color: var(--text-soft);
 }
+/* Esta parte es del boton vcf*/
+.button-primary {
+  display: block;
+  background: #5b37a2;
+  color: rgb(252, 251, 254);
+  text-decoration: none;
+  padding: 14px;
+  border-radius: 12px;
+  margin: 10px 0;
+  font-weight: 600;
+  box-shadow: 0 10px 25px rgba(16,185,129,0.25);
+  transition: all 0.2s ease;
+}
+
+.button-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 30px rgba(16,185,129,0.35);
+}
 
 </style>
 </head>
@@ -152,6 +170,9 @@ Facebook
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" class="icon">
 Book a Meeting
 </a>
+
+<!-- esto anadi par el vcf-->
+<a href="contact.vcf" class="button-primary">📇 Add to Contacts</a>
 
 <div class="footer">
 Kynedra IT Consulting
