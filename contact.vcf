@@ -1,5 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Díaz V;José Luis;;Ing.;MBA
 FN:Ing. José Luis Díaz V, MBA
 ORG:Kynedra IT Consulting
 TITLE:Founder | CEO
@@ -7,4 +8,5 @@ TEL:+16508509396
 EMAIL:joseluis.diavar@icloud.com
 URL:https://tap.kynedra.com
 NOTE:Helping businesses streamline business processes through technology.
+PHOTO;VALUE=URI:https://tap.kynedra.com/images/IMG_7854.PNG
 END:VCARD
